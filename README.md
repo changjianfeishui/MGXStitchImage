@@ -9,7 +9,7 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
-![](https://raw.githubusercontent.com/changjianfeishui/MGXStitchImage/blob/result.png)
+![](https://github.com/changjianfeishui/MGXStitchImage/blob/master/result.png?raw=true)
 
 ## Usage
 
