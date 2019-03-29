@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MGXStitchImage_Example' do
+  pod 'MGXStitchImage', :path => '../'
+
+  target 'MGXStitchImage_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

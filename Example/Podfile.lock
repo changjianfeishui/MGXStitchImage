@@ -1,0 +1,16 @@
+PODS:
+  - MGXStitchImage (0.1.1)
+
+DEPENDENCIES:
+  - MGXStitchImage (from `../`)
+
+EXTERNAL SOURCES:
+  MGXStitchImage:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MGXStitchImage: 83714cd245d2eb0f7ecbdd1ea55f623dcbf8a2fa
+
+PODFILE CHECKSUM: 3fa4daa2691e06be603c7a668ca2b3d0ef7f64a7
+
+COCOAPODS: 1.6.1

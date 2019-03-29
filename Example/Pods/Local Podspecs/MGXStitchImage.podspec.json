@@ -1,0 +1,22 @@
+{
+  "name": "MGXStitchImage",
+  "version": "0.1.1",
+  "summary": "A short description of MGXStitchImage.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/329735967@qq.com/MGXStitchImage",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "329735967@qq.com": "zhangmiao@xiu8.com"
+  },
+  "source": {
+    "git": "https://github.com/329735967@qq.com/MGXStitchImage.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MGXStitchImage/Classes/**/*"
+}

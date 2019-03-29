@@ -1,0 +1,6 @@
+framework module MGXStitchImage {
+  umbrella header "MGXStitchImage-umbrella.h"
+
+  export *
+  module * { export * }
+}
