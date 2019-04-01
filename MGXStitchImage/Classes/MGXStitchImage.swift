@@ -10,7 +10,6 @@ import UIKit
 public class MGXStitchImage: NSObject {
     static let gap:CGFloat = 4;
     public class func stitchImage(images:Array<UIImage>, size:CGSize, backgroundColor:UIColor) -> UIImage {
-        print("0000")
         UIGraphicsBeginImageContextWithOptions(size, false, UIScreen.main.scale)
         backgroundColor.setFill()
         let imageWidth = self.imageWidth(imageCount: images.count, totalWidth: size.width)
